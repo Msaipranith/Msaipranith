@@ -1,6 +1,6 @@
 # Sai Pranith Mugala
 
-![Profile Image](https://via.placeholder.com/150)
+
 
 Hello, Virtual Beings 👋  
 I'm **Sai Pranith Mugala**  
@@ -25,7 +25,7 @@ Check out my GitHub projects here:
 ### Contact Me
 
 - **Email**: [saipranithsunny@gmail.com](mailto:saipranithsunny@gmail.com)
-- **Resume**: [View Resume]()
+
 
 ---
 
