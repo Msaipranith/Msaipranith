@@ -25,7 +25,7 @@ Check out my GitHub projects here:
 ### Contact Me
 
 - **Email**: [saipranithsunny@gmail.com](mailto:saipranithsunny@gmail.com)
-- **Resume**: [View Resume](https://docs.google.com/document/d/1HeEkr6ZxXwDRXBxH6ZM4T22DTOBsKwjdjHNISRhO090/edit?usp=sharing)
+- **Resume**: [View Resume](file:///C:/Users/mugsaipr/OneDrive%20-%20Capgemini/Sai_Pranith_Mugala_Resume.pdf)
 
 ---
 
